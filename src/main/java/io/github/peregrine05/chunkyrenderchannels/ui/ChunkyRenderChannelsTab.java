@@ -1,9 +1,7 @@
 
 package io.github.peregrine05.chunkyrenderchannels.ui;
 
-import javafx.beans.property.BooleanProperty;
 import javafx.beans.property.SimpleBooleanProperty;
-import javafx.beans.property.SimpleDoubleProperty;
 import javafx.geometry.Insets;
 import javafx.scene.Node;
 import javafx.scene.control.Button;
@@ -14,10 +12,7 @@ import javafx.scene.layout.VBox;
 import se.llbit.chunky.renderer.scene.Scene;
 import se.llbit.chunky.renderer.scene.Sky;
 import se.llbit.chunky.ui.render.RenderControlsTab;
-import se.llbit.chunky.ui.RenderControlsFxController;
 import se.llbit.json.Json;
-
-import javax.tools.Tool;
 
 public class ChunkyRenderChannelsTab implements RenderControlsTab {
 
