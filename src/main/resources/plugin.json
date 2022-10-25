@@ -1,0 +1,8 @@
+{
+    "name": "Chunky Render Channels",
+    "author": "Peregrine05",
+    "main": "io.github.peregrine05.chunkyrenderchannels.ChunkyRenderChannels",
+    "version": "0.0.1",
+    "targetVersion": "2.4.0",
+    "description": "Adds controls to easily render lighting feature images."
+}
